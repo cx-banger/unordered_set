@@ -4,7 +4,7 @@
    height="120"
    viewBox="0 0 120 120"
    width="120"
-   focusable="false"
+   focusable="true"
    aria-hidden="true"
    style="pointer-events: none; display: inherit; width: 100%; height: 100%;"
    version="1.1"
